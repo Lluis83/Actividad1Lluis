@@ -112,3 +112,8 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Assets que no quiero subir
+/[Aa]ssets/Synty/
+/[Aa]ssets/Synty.meta  
+
